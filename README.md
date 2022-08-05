@@ -28,7 +28,8 @@ In this case, the data frame shows the first 10 rows, where it can be seen that 
 The total fares of urban cities never went above $1500 USD, while suburban cities maintained between $750- 1500 USD approx. and rural cities stayed above $500 USD. These numbers can tell that each city will go up and down within a range and that the type of city determined that range. The plot from Image 3. helped to visualize the big differences in fares from each city and the peaks from each week in the three different types.
 
 ###### Image 3. Total Fare by City Type
-![Image 3. Total Fare by City Type.](analysis/ PyBer_fare_summary.PNG)
+![Image 3. Total Fare by City Type.](PyBerSummaryTable.PNG)
+
 
 
 ## Summary
